@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://dante-bo.github.io/sitemap.xml

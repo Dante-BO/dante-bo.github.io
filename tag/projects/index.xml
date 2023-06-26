@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>projects | Mocap@HKBU</title>
-    <link>dante-bo.github.io/tag/projects/</link>
-      <atom:link href="dante-bo.github.io/tag/projects/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/projects/</link>
+      <atom:link href="/tag/projects/index.xml" rel="self" type="application/rss+xml" />
     <description>projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/dante-bo.github.io/media/icon_hu741bcec622782e3d7daa9e20105f5932_94858_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu741bcec622782e3d7daa9e20105f5932_94858_512x512_fill_lanczos_center_3.png</url>
       <title>projects</title>
-      <link>dante-bo.github.io/tag/projects/</link>
+      <link>/tag/projects/</link>
     </image>
     
     <item>
       <title>InnoCarnival 2022</title>
-      <link>dante-bo.github.io/project/1_innocarnival2022-/</link>
+      <link>/project/1_innocarnival2022-/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>dante-bo.github.io/project/1_innocarnival2022-/</guid>
+      <guid>/project/1_innocarnival2022-/</guid>
       <description></description>
     </item>
     

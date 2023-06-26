@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Mocap@HKBU</title>
-    <link>dante-bo.github.io/tag/demo/</link>
-      <atom:link href="dante-bo.github.io/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/demo/</link>
+      <atom:link href="/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/dante-bo.github.io/media/icon_hu741bcec622782e3d7daa9e20105f5932_94858_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu741bcec622782e3d7daa9e20105f5932_94858_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>dante-bo.github.io/tag/demo/</link>
+      <link>/tag/demo/</link>
     </image>
     
     <item>
       <title>10th Biennial IACMR Conference 2023</title>
-      <link>dante-bo.github.io/project/3_iacmr2023/</link>
+      <link>/project/3_iacmr2023/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>dante-bo.github.io/project/3_iacmr2023/</guid>
+      <guid>/project/3_iacmr2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HKBU Information Day 2022</title>
-      <link>dante-bo.github.io/project/2_hkbuinformationday2022/</link>
+      <link>/project/2_hkbuinformationday2022/</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>dante-bo.github.io/project/2_hkbuinformationday2022/</guid>
+      <guid>/project/2_hkbuinformationday2022/</guid>
       <description></description>
     </item>
     

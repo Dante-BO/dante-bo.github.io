@@ -38,7 +38,7 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/authors/admin/</loc>
+    <loc>/author/admin/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -62,7 +62,7 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/authors/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -80,6 +80,21 @@
   </url><url>
     <loc>/research/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/dr.-jie-chen-%E9%99%88%E6%9D%B0/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/mr.-junkun-jiang-%E5%A7%9C%E4%BF%8A%E9%94%9F/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/mr.-ryan-au-%E6%AD%90%E6%B5%A9%E7%84%B6/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/prof.-johnny-poon-%E6%BD%98%E6%98%8E%E5%80%AB/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication_types/</loc>

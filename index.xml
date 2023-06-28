@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mocap@HKBU</title>
+    <title>BUMOCAP</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mocap@HKBU</description>
+    <description>BUMOCAP</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu741bcec622782e3d7daa9e20105f5932_94858_512x512_fill_lanczos_center_3.png</url>
-      <title>Mocap@HKBU</title>
+      <url>/media/icon_hud5922503b79c00fbc04153272938a265_266371_512x512_fill_lanczos_center_3.png</url>
+      <title>BUMOCAP</title>
       <link>/</link>
     </image>
     
@@ -220,7 +220,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-234681579&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-495273861&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -230,7 +230,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-234681579&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-495273861&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -567,6 +567,14 @@ Crash --&gt; [*]
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/admin/config.yml</guid>
+      <description></description>
     </item>
     
   </channel>
